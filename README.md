@@ -31,7 +31,7 @@ The final application will predict the Parkinson's disease risk status of an ind
 The expected output variable is:
 
 - **Healthy**
-- **Parkinson's
+- **Parkinson's**
 
 ## Appropriate Dataset Chosen
 https://archive.ics.uci.edu/dataset/470/parkinson+s+disease+classification
