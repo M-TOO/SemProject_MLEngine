@@ -36,9 +36,9 @@ The expected output variable is:
 ## Appropriate Dataset Chosen
 https://archive.ics.uci.edu/dataset/470/parkinson+s+disease+classification
 ### Dataset Structure
-**Columns** -195
-**Rows** - 24
-**Data Type**- Float and Object
+**Rows** - 195
+ **Columns** - 24
+**Data Type** - Float and Object
 
 The dataset is considered complete because it has no missing values
 
